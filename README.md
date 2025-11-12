@@ -61,13 +61,13 @@ Demonstrates:
 ## Example Output
 
 ```
-Bird [color = Unknown, size = 0.0, weight = 0.0, energyLevel = 100.0, health = 100.0, wingStrength = 50.0]
+Bird [color = unknown, size = 0.0, weight = 0.0, energyLevel = 100.0, health = 100.0, wingStrength = 50.0]
 Bird [color = Blue, size = 1.5, weight = 2.3, energyLevel = 80.0, health = 90.0, wingStrength = 70.0]
 The bird has eaten and gained energy.
 The bird has eaten and gained energy.
 The bird is flying!
 The bird is flying!
-Bird Status: Bird [color = Unknown, size = 0.0, weight = 0.0, energyLevel = 110.0, health = 95.0, wingStrength = 50.0]
+Bird Status: Bird [color = unknown, size = 0.0, weight = 0.0, energyLevel = 110.0, health = 95.0, wingStrength = 50.0]
 Bird Status: Bird [color = Blue, size = 1.5, weight = 2.3, energyLevel = 85.0, health = 85.0, wingStrength = 70.0]
 ```
 
