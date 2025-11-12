@@ -1,6 +1,3 @@
-Sure — here’s your **README.md** written in the requested plain, professional format (no emojis, no decorations):
-
----
 
 ## Getting Started
 
