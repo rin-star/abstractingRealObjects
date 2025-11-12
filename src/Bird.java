@@ -23,7 +23,7 @@ public class Bird {
      * Initializes the bird with default values for all attributes.
      */
     public Bird() {
-        this.color = "Unknown"; // Default color
+        this.color = "unknown"; // Default color
         this.size = 0.0; // Default size
         this.weight = 0.0; // Default weight
         this.energyLevel = 100.0; // Default energy level

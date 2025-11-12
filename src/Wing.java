@@ -49,6 +49,6 @@ public class Wing {
      */
     @Override
     public String toString() {
-        return "Wing [wingStrength = " + wingStrength + "]"; // Generate a string representation
+        return "wing [wingStrength = " + wingStrength + "]"; // Generate a string representation
     }
 }
