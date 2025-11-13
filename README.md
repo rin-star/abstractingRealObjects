@@ -3,7 +3,7 @@
 
 Welcome to the Bird Simulation Project. This program models a real-world object, a Bird, using Java classes. The project demonstrates object-oriented programming principles such as encapsulation, composition, constructors, method overloading, and behaviors.
 
-Essentially, it is a Java program that simulates the behavior of birds in a virtual environment. Users can create birds, feed them, make them fly, and monitor their health and energy levels. This project demonstrates key object-oriented programming principles, including encapsulation, composition, constructors, and method overloading.
+This Java program simulates the behavior of birds in a virtual environment. Users can create birds, feed them, make them fly, and monitor their health and energy levels. The project highlights key object-oriented programming principles, including encapsulation, composition, constructors, and method overloading.
 
 ## Folder Structure
 
@@ -16,6 +16,7 @@ The workspace contains the following folders:
 If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
 ## Classes Overview
+* [put draw.io file]
 
 ### Bird.java
 
