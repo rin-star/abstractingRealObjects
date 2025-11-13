@@ -16,7 +16,8 @@ The workspace contains the following folders:
 If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
 ## Classes Overview
-* [put draw.io file]
+* https://drive.google.com/file/d/1vTpRkEbA0jwmoYEUqjW-5yVHbANm0T2l/view?usp=sharing
+* PLease check this Flowchart for more detailed information
 
 ### Bird.java
 
